@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheckBoxDemoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="Hello">Helllo World THis y=is a check box app</string>
+    <string name="chk_ios">IPHONE</string>
+    <string name="chk_android">ANDROID</string>
+    <string name="chk_windows">LUMIA</string>
+    <string name="btn_display">DISPLAY</string>
+
+</resources>
